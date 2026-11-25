@@ -1,1 +1,4 @@
 module_signing/MOK.priv
+
+# Private signing keys
+module_signing/*.priv
